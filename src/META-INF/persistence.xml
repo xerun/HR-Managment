@@ -7,8 +7,8 @@
         <properties>
             <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver" />
             <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@//myoracle12c.senecacollege.ca/oracle12c" />
-            <property name="javax.persistence.jdbc.user" value="cjv805_201a02" />
-            <property name="javax.persistence.jdbc.password" value="21261135" />
+            <property name="javax.persistence.jdbc.user" value="" />
+            <property name="javax.persistence.jdbc.password" value="" />
             <property name="eclipselink.logging.level" value="FINE"/>
 			<property name="eclipselink.ddl-generation" value="create-tables"/>
         </properties>
