@@ -45,3 +45,18 @@ This Package contains following servlet class that is used to handle the request
 	-newEmployee.jsp  
 	-searchEmployee.jsp  
 	-searchResult.jsp
+
+## Login
+![Image 1](https://raw.githubusercontent.com/xerun/HR-Managment/master/WebContent/images/login.JPG)
+
+## Inner Page
+![Image 1](https://raw.githubusercontent.com/xerun/HR-Managment/master/WebContent/images/employee.JPG)
+
+## All Employees List
+![Image 1](https://raw.githubusercontent.com/xerun/HR-Managment/master/WebContent/images/employeeList.JPG)
+
+## Edit Employee
+![Image 1](https://raw.githubusercontent.com/xerun/HR-Managment/master/WebContent/images/edit.JPG)
+
+## Search Result of Employees
+![Image 1](https://raw.githubusercontent.com/xerun/HR-Managment/master/WebContent/images/search.JPG)
