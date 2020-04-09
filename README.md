@@ -6,22 +6,22 @@ The application is comprised of the following parts:
 ## Packages:  
 ### ca.myseneca.controller  
 The following classes in this package are to control the data flow into model objects  
-	-DepartmentController  
-	-EmployerController  
-	-SecurityController
+	-DepartmentController.java  
+	-EmployerController.java  
+	-SecurityController.java
 ### ca.myseneca.dao  
 The following classes in this package are to abstract the retrieval of data from the Oracle database  
-	-DepartmentDao  
-	-EmployeeDao  
-	-SecurityDao  			
+	-DepartmentDao.java  
+	-EmployeeDao.java  
+	-SecurityDao.java  			
 ### ca.myseneca.model  
 This package contains the following Java Bean Classes to provide getters and setters  
-	-Department  
-	-Employee  
-	-Security 			
+	-Department.java  
+	-Employee.java  
+	-Security.java 			
 ### ca.myseneca.web  
 This Package contains following servlet class that is used to handle the request obtained from the web server, process the request, produce the response, then send response back to the web server.  
-	-EmployeeServlet  
+	-EmployeeServlet.java  
 		
 ## META-INF folder:  
 -contains persistence.xml  
