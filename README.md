@@ -4,22 +4,22 @@ This application use Model-ViewController software pattern to design and impleme
 The application is comprised of the following parts:  
 
 ## Packages:  
-### ca.myseneca.controller  
+### com.hrmanagment.controller  
 The following classes in this package are to control the data flow into model objects  
 	-DepartmentController.java  
 	-EmployerController.java  
 	-SecurityController.java
-### ca.myseneca.dao  
+### com.hrmanagment.dao  
 The following classes in this package are to abstract the retrieval of data from the Oracle database  
 	-DepartmentDao.java  
 	-EmployeeDao.java  
 	-SecurityDao.java  			
-### ca.myseneca.model  
+### com.hrmanagment.model  
 This package contains the following Java Bean Classes to provide getters and setters  
 	-Department.java  
 	-Employee.java  
 	-Security.java 			
-### ca.myseneca.web  
+### com.hrmanagment.web  
 This Package contains following servlet class that is used to handle the request obtained from the web server, process the request, produce the response, then send response back to the web server.  
 	-EmployeeServlet.java  
 		
